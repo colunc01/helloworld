@@ -3,4 +3,6 @@
 int main()
 {
     std::cout << "Hello World" << std::endl;
+
+    system.out.println("Hello World");
 }
